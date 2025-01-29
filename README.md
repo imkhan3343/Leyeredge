@@ -5,7 +5,9 @@ pip install python-dotenv tweepy requests pandas scikit-learn solana solders aio
 **Create .env File**
 # API Keys
 GMGN_API_KEY=your_gmgn_key
+
 TWITTER_BEARER_TOKEN=your_twitter_bearer
+
 PUMPFUN_API_KEY=your_pumpfun_key
 
 # Wallet
@@ -13,8 +15,11 @@ WALLET_PRIVATE_KEY=your_wallet_private_key_hex
 
 # Alerts
 ALERT_EMAIL=your@email.com
+
 EMAIL_PASSWORD=your_email_app_password
+
 SMTP_SERVER=smtp.gmail.com
+
 SMTP_PORT=587
 
 **Run the Bot**
