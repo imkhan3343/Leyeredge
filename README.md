@@ -1,4 +1,5 @@
 **Install Requirements**
+
 pip install python-dotenv tweepy requests pandas scikit-learn solana solders aiohttp joblib 
 
 **Create .env File**
